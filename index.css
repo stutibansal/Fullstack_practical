@@ -4,7 +4,7 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 body{
-    background-image: url("../digital.jpg");
+    background-image: url(../digital.jpg);
     /*background-repeat: no-repeat;*/
      background-size: cover;
 }
